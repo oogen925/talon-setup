@@ -1,0 +1,21 @@
+[submodule "community"]
+	path = community
+	url = https://github.com/talonhub/community.git
+[submodule "cursorless"]
+	path = cursorless
+	url = https://github.com/cursorless-dev/cursorless.git
+[submodule "dense-mouse-grid"]
+	path = dense-mouse-grid
+	url = https://github.com/tararoys/dense-mouse-grid.git
+[submodule "parrot.py"]
+	path = parrot.py
+	url = https://github.com/chaosparrot/parrot.py.git
+[submodule "rango-talon"]
+	path = rango-talon
+	url = https://github.com/david-tejada/rango-talon.git
+[submodule "talon_hud"]
+	path = talon_hud
+	url = https://github.com/chaosparrot/talon_hud.git
+[submodule "talon-gaze-ocr"]
+	path = talon-gaze-ocr
+	url = https://github.com/wolfmanstout/talon-gaze-ocr.git

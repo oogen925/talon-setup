@@ -1,0 +1,29 @@
+Rational Functions(quotient of two polynomials):
+
+Horizontal Asymptote:
+
+if(denominator and numerator==exponent weight):
+    leading coefficient[1]/leading coefficient[2]=Asymptote
+else:
+    when(denominator weight>numerator weight)
+        Asymptote=0
+            remember {account for constants}
+else:
+    when(numerator weight>denominator)->polynomial long division
+^note:when changing factored to standard form to look at weight get rid of all the constants and just look at the variables
+
+Vertical Asymptote:
+    solve for denominator=0
+    if factorable... factor
+
+
+Vocab:
+reciprocal function-f(x)=1/x
+
+
+not negative
+
+numerator weight>denominator weight
+    therefore slant
+
+VA:

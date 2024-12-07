@@ -1,0 +1,1 @@
+What are some common points that people cover when they're talking about what they want in their next year of high school specifically about spanish class

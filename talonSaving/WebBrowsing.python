@@ -1,0 +1,4 @@
+from talon import actions
+
+def scroll_down(amount: int = 1):
+    actions.mouse_scroll(y=-amount)

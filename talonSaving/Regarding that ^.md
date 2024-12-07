@@ -1,0 +1,1 @@
+Regarding that ^. What to most people mount their mod mic do? I would assume over ear headphones, I'm interested if anybody has a more lightweight option for traveling? 

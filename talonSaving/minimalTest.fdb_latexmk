@@ -1,0 +1,16 @@
+# Fdb version 4
+["pdflatex"] 1723992543.86654 "c:/Users/Sam/AppData/Roaming/talon/user/talon-setup/talonSaving/minimalTest.tex" "minimalTest.pdf" "minimalTest" 1723992544.26504 0
+  "C:/Users/Sam/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1723992319 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "C:/Users/Sam/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1723991556 24224102 7d7392a64b5ca3bd37e0d3409023623a ""
+  "C:/Users/Sam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
+  "C:/Users/Sam/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls" 1705273579 20144 147463a6a579f4597269ef9565205cfe ""
+  "C:/Users/Sam/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo" 1705273578 8448 dbc0dbf4156c0bb9ba01a1c685d3bad0 ""
+  "C:/Users/Sam/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1704400941 30006 57b07afb710ee2f649c65cfbafda39c1 ""
+  "c:/Users/Sam/AppData/Roaming/talon/user/talon-setup/talonSaving/minimalTest.tex" 1723992543 82 52d6ae1997d98390253a39e97bfdb1eb ""
+  "minimalTest.aux" 1723992544 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "minimalTest.tex" 1723992543 82 52d6ae1997d98390253a39e97bfdb1eb ""
+  (generated)
+  "minimalTest.aux"
+  "minimalTest.log"
+  "minimalTest.pdf"
+  (rewritten before read)

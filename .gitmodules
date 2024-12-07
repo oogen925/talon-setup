@@ -19,3 +19,9 @@
 [submodule "talon-gaze-ocr"]
 	path = talon-gaze-ocr
 	url = https://github.com/wolfmanstout/talon-gaze-ocr.git
+[submodule "mathfly-talon"]
+	path = mathfly-talon
+	url = https://github.com/mrob95/mathfly-talon.git
+[submodule "webspeech-examples"]
+	path = webspeech-examples
+	url = https://github.com/talonvoice/webspeech_examples.git
